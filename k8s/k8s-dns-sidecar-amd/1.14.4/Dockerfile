@@ -1,1 +1,0 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd:1.14.4
